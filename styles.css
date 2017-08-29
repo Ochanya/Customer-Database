@@ -19,4 +19,9 @@ h1 {
     flex-direction: column;
     text-align: center;
     padding:15px;
+    text-transform: capitalize;
   }
+
+img{
+  height: 220px;
+}
