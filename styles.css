@@ -3,6 +3,24 @@ body{
   width: 80%;
   margin: 0 auto;
 }
+.ssnum{
+
+   text-shadow: 0 0 32px green;
+   color: transparent;
+
+}
+.ssnum:hover{
+  color:green;
+}
+h2{
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+.email{
+  color:lightgrey;
+
+}
 
 h1 {
   text-align: center;
